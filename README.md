@@ -19,10 +19,10 @@ I'm Roiner Bracamonte , a **Fullstack Web Developer** in Lima, Peru. I like to l
 
 ## 🌱 I’m currently learning ...
 
--React Native.
--Next.js.
--Nosql.
--MongoDb.js.
+- React Native.
+- Next.js.
+- Nosql.
+- MongoDb.js.
 
 <!--
 **Roystreet/roystreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
