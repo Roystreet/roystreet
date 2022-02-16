@@ -24,6 +24,10 @@ I'm Roiner Bracamonte , a **Fullstack Web Developer** in Lima, Peru. I like to l
 - Nosql.
 - MongoDb.js.
 
+### 🔎 If you want to contact me, I'll be happy to meet you!
+
+<a title="LinkedIn" href="https://www.linkedin.com/in/roystreet/"><img src="/img/link.png" alt="LinkedIn" height="60" width="50"/></a> <a href="mailto:rbracamonte.winhold@gmail.com"> <img alt="E-mail" src="/img/gmail.png" height="48" width="55" ></a>
+
 <!--
 **Roystreet/roystreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
